@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1043958269643",
+    "firebase_url": "https://sirpla-ot.firebaseio.com",
+    "project_id": "sirpla-ot",
+    "storage_bucket": "sirpla-ot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043958269643:android:20f94fff67215e6b177d4e",
+        "android_client_info": {
+          "package_name": "com.sirpla.euxeq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043958269643-j0fqid5ml8u8a9hnceuecrbvk0fqgmit.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sirpla.euxeq",
+            "certificate_hash": "75d7f9e587ac4e46dd0ffb2dfc26c71fae91c3c1"
+          }
+        },
+        {
+          "client_id": "1043958269643-ah7jl2jthoejte0043udsveon2fcl31v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sirpla.euxeq",
+            "certificate_hash": "ae355a2a664ff086eb18719871d899f3b883840b"
+          }
+        },
+        {
+          "client_id": "1043958269643-8hq8tgoemkv6pphgujrok9m4029hea22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xje3M7cPvjGAd1eN8UGcHMMApIKAw2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043958269643-8hq8tgoemkv6pphgujrok9m4029hea22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043958269643-tpg23t7ci4f220o6o3kcm9oss65k0cvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sirpla.sirplapd"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043958269643:android:3ae5e2ba328df543177d4e",
+        "android_client_info": {
+          "package_name": "com.sirpla.testfirebaseui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043958269643-lia43vfqled2t6r9gh4kq1i1r2qqhkhc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sirpla.testfirebaseui",
+            "certificate_hash": "75d7f9e587ac4e46dd0ffb2dfc26c71fae91c3c1"
+          }
+        },
+        {
+          "client_id": "1043958269643-8hq8tgoemkv6pphgujrok9m4029hea22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0xje3M7cPvjGAd1eN8UGcHMMApIKAw2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043958269643-8hq8tgoemkv6pphgujrok9m4029hea22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043958269643-tpg23t7ci4f220o6o3kcm9oss65k0cvb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sirpla.sirplapd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
